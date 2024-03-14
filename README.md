@@ -1,6 +1,6 @@
-# paranext-extension-template
+# snake.bible
 
-Basic extension template for Platform.Bible
+Snake gamification with Scripture Burrito all inside Platform.Bible
 
 ## Template Info
 
